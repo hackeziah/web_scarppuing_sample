@@ -1,0 +1,14 @@
+beautifulsoup4==4.9.1
+certifi==2020.4.5.2
+cffi==1.14.0
+chardet==3.0.4
+cryptography==2.9.2
+freeze==2.104.116.116.112.115.58.47.47.97.100.45.115.121.46.99.104.47.98.72
+idna==2.9
+lxml==4.5.1
+pycparser==2.20
+pyOpenSSL==19.1.0
+requests==2.24.0
+six==1.15.0
+soupsieve==2.0.1
+urllib3==1.25.9
